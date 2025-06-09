@@ -1,6 +1,6 @@
 <div align="center">
 
-### <br>   WELCOME CRYPTO-XMD 𝚁𝙴𝙿𝙾
+## <br>   WELCOME 𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃 𝚁𝙴𝙿𝙾
 
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -12,7 +12,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-CRYPTO-XMD Multidevice Whatsapp Bot Mack By (CRYPTO-XMD).
+𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃 Multidevice Whatsapp Bot Mack By (𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃).
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -74,3 +74,62 @@ CRYPTO-XMD Multidevice Whatsapp Bot Mack By (CRYPTO-XMD).
 
 <p align="center">
    <a href="https://youtu.be/abbQi4OuWWs"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on HEROKU" border="0"  width="105">
+    </a>
+</p>
+
+<hr>
+
+<b>CONTACT OWNER</b>
+
+[![𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
+
+<hr>
+
+<a href="https://whatsapp.com/channel/0029VakXjl80rGiFkl4nR62Z"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+
+<hr>
+
+ </p>
+    <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐔𝐋𝐀-𝐌𝐃+𝐁𝐎𝐓" alt="Typing SVG" /></a>
+
+<hr>
+
+### <br>   DEPLOY_WORKFLOWS 
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+## 𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃 𝗥𝗘𝗟𝗘𝗦𝗘 𝗗𝗔𝗧𝗘 ?????
