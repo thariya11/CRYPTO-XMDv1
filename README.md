@@ -34,7 +34,7 @@
 
   </a>
   <a href="https://github.com/isithaanusara/CRYPTO-XMDv1">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sulaksha%20Madara&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Crypto%20Knight&color=purple&style=plastic">
 
   </a>
   </p>
