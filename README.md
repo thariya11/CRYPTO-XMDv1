@@ -48,7 +48,7 @@
 
 <b>GET SESSION ID VIA PAIR CODE </b>
 
-<a href='https://sula-web-730bc65bc114.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://crypto-xmd-session.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
@@ -68,7 +68,7 @@
 ` HOW TO DEPLOY CRYPTO-XMD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL `
 
 <p align="center">
-   <a href="https://youtu.be/NJjxbslkKvQ"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on FREE" border="0"  width="105">
+   <a href="තව නැතෝ"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on FREE" border="0"  width="105">
     </a>
 </p>
 
@@ -121,4 +121,4 @@ jobs:
       run: npm start
 ```
 
-## 𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃 𝗥𝗘𝗟𝗘𝗦𝗘 𝗗𝗔𝗧𝗘 ?????
+## 𝐂𝐑𝐘𝐏𝐓𝐎-𝐗𝐌𝐃 𝗥𝗘𝗟𝗘𝗦𝗘 𝗗𝗔𝗧𝗘 😙 𝐓𝐎𝐃𝐀𝐘!........
